@@ -8,7 +8,7 @@ void main() {
 
   List names = List.generate(3, (index) => null);
   print( names );
-  // name.add('Alexis') We can't not do this.
+  // name.add('Alexis') We can't do this.
   names[0] = 'Alexis';
   names[1] = 'Pedro';
   names[2] = 'Juan';

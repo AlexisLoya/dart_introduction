@@ -8,7 +8,6 @@ void main() {
   print( luthor );
 }
 
-
 abstract class Character {
   String ? power;
   String name;

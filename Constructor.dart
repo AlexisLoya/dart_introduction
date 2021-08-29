@@ -14,6 +14,7 @@ class Hero {
   String name;
   String power;
   
+  //constructor
   Hero({ 
     required this.name, 
     required this.power 
